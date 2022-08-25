@@ -1,1 +1,1 @@
-web: gunicorn motherearth.wsgi
+web: gunicorn demotherearth.wsgi
